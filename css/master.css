@@ -7,7 +7,7 @@ body {
   height: 100vh;
 }
 
-.login-box {
+.login-box {/* un comentario */
   width: 320px;
   height: 420px;
   background: #000;
